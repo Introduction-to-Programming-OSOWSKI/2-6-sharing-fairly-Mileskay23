@@ -7,7 +7,7 @@ import datetime;
 
 year = 2021
 month = 10
-day = 8
+day = 9
 
 def test_code():
     assert main.shareFair(10, 2) == True, " shareFair(10, 2) == True failed"
